@@ -1,0 +1,139 @@
+{
+    "simulation_settings": {
+        "camera_offset_x": 700,
+        "camera_offset_y": 450,
+        "zoom_scale": 1.0,
+        "simulation_speed_multiplier": 1.0,
+        "show_trails": true,
+        "show_labels": true,
+        "show_velocity_vectors": false
+    },
+    "celestial_bodies": [
+        {
+            "name": "Sun",
+            "mass": 20000,
+            "position_x": 0.053069830972620934,
+            "position_y": 0.13318549318813702,
+            "velocity_x": 0.0008942952425643287,
+            "velocity_y": 0.027451805840005738,
+            "radius": 15,
+            "colour": [
+                255,
+                255,
+                0
+            ]
+        },
+        {
+            "name": "Mercury",
+            "mass": 1,
+            "position_x": 76.43918316892925,
+            "position_y": -20.61909992110352,
+            "velocity_x": 58.1590463420156,
+            "velocity_y": 215.4601643920682,
+            "radius": 4,
+            "colour": [
+                169,
+                169,
+                169
+            ]
+        },
+        {
+            "name": "Venus",
+            "mass": 1,
+            "position_x": 43.367751313580385,
+            "position_y": -141.40821487379628,
+            "velocity_x": 155.91442028531537,
+            "velocity_y": 44.52150795478369,
+            "radius": 6,
+            "colour": [
+                255,
+                198,
+                73
+            ]
+        },
+        {
+            "name": "Earth",
+            "mass": 1,
+            "position_x": -199.71176290735008,
+            "position_y": 6.2191559178407525,
+            "velocity_x": -9.32000444554675,
+            "velocity_y": -141.23597504061573,
+            "radius": 6,
+            "colour": [
+                100,
+                149,
+                237
+            ]
+        },
+        {
+            "name": "Mars",
+            "mass": 1,
+            "position_x": -21.766129766862143,
+            "position_y": 300.27378461510676,
+            "velocity_x": -115.61268876012704,
+            "velocity_y": -7.242969088722556,
+            "radius": 5,
+            "colour": [
+                193,
+                68,
+                14
+            ]
+        },
+        {
+            "name": "Jupiter",
+            "mass": 5,
+            "position_x": 1005.5932898461061,
+            "position_y": 263.76114599367156,
+            "velocity_x": -15.736521271446154,
+            "velocity_y": 60.01183141721567,
+            "radius": 12,
+            "colour": [
+                255,
+                166,
+                99
+            ]
+        },
+        {
+            "name": "Saturn",
+            "mass": 5,
+            "position_x": 1905.8051314447164,
+            "position_y": 196.1283538236099,
+            "velocity_x": -4.68335402466471,
+            "velocity_y": 45.454218811068266,
+            "radius": 10,
+            "colour": [
+                210,
+                180,
+                140
+            ]
+        },
+        {
+            "name": "Uranus",
+            "mass": 3,
+            "position_x": 3841.4654464257424,
+            "position_y": 138.67964220963972,
+            "velocity_x": -1.1651894321417477,
+            "velocity_y": 32.23735080399726,
+            "radius": 8,
+            "colour": [
+                173,
+                216,
+                230
+            ]
+        },
+        {
+            "name": "Neptune",
+            "mass": 3,
+            "position_x": 6008.961964335983,
+            "position_y": 110.92683803922938,
+            "velocity_x": -0.4772444986547014,
+            "velocity_y": 25.794069029328064,
+            "radius": 8,
+            "colour": [
+                30,
+                144,
+                255
+            ]
+        }
+    ]
+}
